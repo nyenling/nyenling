@@ -35,7 +35,7 @@
 <!-- Social Links and Stats -->
 <p align="center">
   <a href="https://github.com/nyenling">
-    <img src="https://img.shields.io/github/followers/nyenling?label=Follow&style=flat-square&logo=github&color=success" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/nyenling?label=Follow&style=flat-square&logo=github&color=blue" alt="GitHub followers">
   </a>
 </p>
 
