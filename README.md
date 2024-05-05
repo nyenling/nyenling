@@ -1,3 +1,8 @@
+<!-- Avatar Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nyenling&label=Avatar+Views&color=blue" alt="Avatar Views">
+</p>
+
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/nyenling">
